@@ -1,0 +1,183 @@
+baseURL = "https://3dprintelements.com/"
+languageCode = "en-us"
+title = "3D Print Elements"
+theme = "printwire"
+
+[params]
+tagline       = "The research hub for additive manufacturing of pure and compound elemental materials — covering every printable element from copper to rare earths."
+description   = "3D Print Elements tracks additive manufacturing across the periodic table — pure metals, intermetallics, refractory ceramics, and compound elemental materials for research, defence, and advanced manufacturing."
+keywords      = "elemental 3D printing, periodic table AM, pure metal additive manufacturing, refractory metal 3D print, intermetallic AM, compound materials printing"
+logoEmoji     = "🔬"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#14b8a6"
+colorPrimaryDark  = "#0d9488"
+colorPrimaryLight = "#2dd4bf"
+colorBgDark       = "#020a09"
+colorBgSection    = "#040e0d"
+colorBgCard       = "#071412"
+colorBgCardHover  = "#0b1c19"
+
+fontPrimary   = "Rajdhani"
+fontSecondary = "Source+Sans+3"
+
+newsFallbackImages = ["https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1920&q=80"]
+
+heroEyebrow  = "Elemental Materials AM Research"
+heroTitle    = "3D Print <em>Elements</em>"
+heroSubtitle = "The research hub for additive manufacturing of pure and compound elemental materials — covering every printable element from copper to rare earths."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1920&q=80"
+
+overviewTitle   = "The Periodic Table of 3D Printable Materials"
+overviewText    = "From lithium anodes to tungsten shielding — additive manufacturing is working its way through the periodic table. We track every breakthrough, process, and commercial application."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsTitle = "Industries We Serve"
+servicesTitle    = "3D Print Elements Services"
+servicesSubtitle = "The research hub for additive manufacturing of pure and compound elemental materials — covering every printable element from copper to rare earths."
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "The research hub for additive manufacturing of pure and compound elemental materials — covering every printable element from copper to rare earths."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 40
+suffix = "+"
+label  = "Printable Pure Elements"
+
+[[params.stats]]
+count  = 200
+suffix = "+"
+label  = "Alloy & Compound Systems"
+
+[[params.stats]]
+count  = 500
+suffix = "+"
+label  = "Research Papers Indexed"
+
+[[params.stats]]
+count  = 30
+suffix = "%"
+label  = "CAGR (Advanced Metal AM)"
+
+
+[[params.applications]]
+title       = "Electronics & Photonics"
+description = "Printable conductors, semiconductors, and rare earth materials for electronics manufacturing."
+image       = "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1920&q=80"
+
+[[params.applications]]
+title       = "Energy Storage"
+description = "Lithium, silicon, and sulfur electrode materials printed for next-generation battery research."
+image       = "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1920&q=80"
+
+[[params.applications]]
+title       = "Defence & Space"
+description = "Tungsten, tantalum, and molybdenum for radiation shielding, kinetic penetrators, and reentry components."
+image       = "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1920&q=80"
+
+[[params.applications]]
+title       = "Biomedical Research"
+description = "Biocompatible pure metals — titanium, tantalum, and niobium for orthopaedic and craniofacial implants."
+image       = "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Research Material Sourcing"
+description = "Connect with suppliers of pure elemental AM powders — from common aluminium to exotic rare earth feedstocks."
+
+[[params.servicesPreview]]
+icon        = "📋"
+title       = "Materials Database"
+description = "Searchable database of printable elemental materials — properties, processes, suppliers, and research references."
+
+[[params.servicesPreview]]
+icon        = "⚗️"
+title       = "Process Consulting"
+description = "Technical consulting for novel elemental material printing — atmosphere control, parameter development, and characterisation."
+
+[[params.servicesPreview]]
+icon        = "◎"
+title       = "Industry Intelligence"
+description = "Market intelligence on emerging elemental AM materials — commercial readiness, IP landscape, and key players."
+
+
+[[params.services]]
+name        = "Research Material Sourcing"
+description = "Connect with suppliers of pure elemental AM powders — from common aluminium to exotic rare earth feedstocks."
+icon        = "🔬"
+image       = "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800&q=80"
+
+[[params.services]]
+name        = "Materials Database"
+description = "Searchable database of printable elemental materials — properties, processes, suppliers, and research references."
+icon        = "📋"
+image       = "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800&q=80"
+
+[[params.services]]
+name        = "Process Consulting"
+description = "Technical consulting for novel elemental material printing — atmosphere control, parameter development, and characterisation."
+icon        = "⚗️"
+image       = "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800&q=80"
+
+[[params.services]]
+name        = "Industry Intelligence"
+description = "Market intelligence on emerging elemental AM materials — commercial readiness, IP landscape, and key players."
+icon        = "◎"
+image       = "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "3dprintelements.com"
+url         = "https://3dprintelements.com"
+description = "Elemental materials 3D printing"
+
+[[params.clusterLinks]]
+name        = "metalpowder.co"
+url         = "https://metalpowder.co"
+description = "Metal powder for AM"
+
+[[params.clusterLinks]]
+name        = "dmls3d.com"
+url         = "https://dmls3d.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing"
+
+[[menu.main]]
+name = "Home"
+url  = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url  = "/about/"
+weight = 2
+[[menu.main]]
+name = "Articles"
+url  = "/articles/"
+weight = 3
+[[menu.main]]
+name = "Services"
+url  = "/services/"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 5
+[[menu.main]]
+name = "Advertise"
+url  = "/advertise/"
+weight = 6

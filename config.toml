@@ -10,6 +10,7 @@ title = "3D Print Elements"
       unsafe = true
 
 [params]
+ogImage       = "/images/01_hero_polymer.png"
 siteName      = "3D Print Elements"
 logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">ELEMENTS</span>'
 tagline       = "The research hub for additive manufacturing of pure and compound elemental materials — covering every printable element from copper to rare earths."

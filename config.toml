@@ -1,9 +1,17 @@
 baseURL = "https://3dprintelements.com/"
 languageCode = "en-us"
 title = "3D Print Elements"
-theme = "printwire"
+[outputs]
+  home = ["HTML", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
+siteName      = "3D Print Elements"
+logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">ELEMENTS</span>'
 tagline       = "The research hub for additive manufacturing of pure and compound elemental materials — covering every printable element from copper to rare earths."
 description   = "3D Print Elements tracks additive manufacturing across the periodic table — pure metals, intermetallics, refractory ceramics, and compound elemental materials for research, defence, and advanced manufacturing."
 keywords      = "elemental 3D printing, periodic table AM, pure metal additive manufacturing, refractory metal 3D print, intermetallic AM, compound materials printing"

@@ -14,7 +14,7 @@ ogImage       = "/images/01_hero_polymer.png"
 siteName      = "3D Print Elements"
 logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">ELEMENTS</span>'
 tagline       = "The research hub for additive manufacturing of pure and compound elemental materials — covering every printable element from copper to rare earths."
-description   = "3D Print Elements tracks additive manufacturing across the periodic table — pure metals, intermetallics, refractory ceramics, and compound elemental materials for research, defence, and advanced manufacturing."
+description   = "3D Print Elements is a PrintWire network site about 3D printing materials. PrintWire passes quote requests to specialised manufacturers and returns pricing. PrintWire does not manufacture parts itself."
 keywords      = "elemental 3D printing, periodic table AM, pure metal additive manufacturing, refractory metal 3D print, intermetallic AM, compound materials printing"
 logoEmoji     = "🔬"
 contactEmail  = "maxdavisgroup@gmail.com"
